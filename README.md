@@ -7,3 +7,4 @@
     -   css app with tailwindcss
     -   use react-toastify to create notify when submitting the form
     -   use fake data
+    -   use Image Lazy load for image loading
