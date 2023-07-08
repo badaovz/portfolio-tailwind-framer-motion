@@ -59,28 +59,28 @@ export const projects = [
         image: p3,
         imagePre: p3pre,
         tags: ['mobile-app'],
-        link: 'https://github.com/badaovz/chat-app',
+        link: 'https://chat-app-xi-rouge.vercel.app',
     },
     {
         name: 'Tiktok UI',
         image: p4,
         imagePre: p4pre,
         tags: ['mobile-app'],
-        link: 'https://github.com/badaovz/tiktok-ui',
+        link: 'https://tiktok-ui-smoky.vercel.app',
     },
     {
         name: 'Portfolio website',
         image: p5,
         imagePre: p5pre,
         tags: ['website', 'dashboard'],
-        link: 'https://github.com/badaovz/portfolio-web',
+        link: 'https://portfolio-web-gilt.vercel.app',
     },
     {
         name: 'Sport website',
         image: p6,
         imagePre: p6pre,
         tags: ['website'],
-        link: 'https://github.com/badaovz/DnSport',
+        link: 'https://dn-sport.vercel.app/',
     },
 ];
 
